@@ -6,8 +6,6 @@ En este repositorio encontrarás un proyecto desarrollado con React que muestra 
 
 👀 En este proyecto, encontrarás información detallada sobre cada una de estas montañas, incluyendo su nombre, altura y ubicación en el continente.
 
-📊 También hemos creado gráficos para visualizar la altura de cada montaña y compararlas entre sí.
-
 👨‍💻 Este proyecto es una excelente oportunidad para aprender más sobre React y cómo crear componentes interactivos con él. Además, es una excelente fuente de información para los amantes de la montaña y aquellos interesados en explorar las montañas más altas del continente americano.
 
 ## Como usar
